@@ -1,6 +1,6 @@
 # NestJS MVC Todo App
 
-A small fullstack Todo application built with NestJS using the MVC pattern. The server renders EJS templates and stores todos in memory.
+A small fullstack Todo application built with NestJS using the MVC pattern. The server exposes JSON endpoints and serves a React UI from static assets. The app stores todos in memory.
 
 ## Getting started
 
